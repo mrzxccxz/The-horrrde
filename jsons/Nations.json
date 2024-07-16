@@ -23,7 +23,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [161,161,161],
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", "Enables [Phasers] units to enter ocean tiles <starting from the [Ancient era]>"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", "Enables [Looord] units to enter ocean tiles <starting from the [Ancient era]>", "[+25]% [Production] [in puppeted cities]", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]", "[-35]% Unhappiness from [Population] [in puppeted cities]"],
 		"cities": ["Hommme ooofff wwwar"]
 	}
 ]

@@ -5,9 +5,9 @@
 		"uniqueTo": "Horrrde",
 		"replaces": "Settler",
 		"movement": 1,
-		"strength": 3,
+		"strength": 33,
    "rangedStrength": 666,
-		"range": 2,
+		"range": 1,
    "requiredTech": "Future Tech",
    "uniques": ["May attack when embarked", "May capture killed [Military] units", "Must set up to ranged attack"]
 	}
