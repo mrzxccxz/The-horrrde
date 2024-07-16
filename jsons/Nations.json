@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Horrrde",
+		"leaderName": "Ovvverlord",
+		"adjective": ["Ggoodd"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We commme for Dddomination!",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "Waaar",
+		"attacked": "'*_*",
+		"defeated": ". . .",
+		"introduction": "_______________________________________________________________________________________________________________________________________________________",	
+
+		"neutralHello": "Yammm yyyam",
+		"neutralLetsHearIt": ["Gooo ooon.","Whhhat do you saaay?","You mmmay bbbegin."],
+		"neutralNo": [".|..","Nnno!","Rrrefusse."],
+		"neutralYes": ["Goood.","Of courrrse.", "That iiis."],
+		
+			"afterPeace": "Thisss isss not my decisssion",
+		"tradeRequest": "Nooo",
+
+		"outerColor": [16,16,16],
+		"innerColor": [161,161,161],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", "Enables [Phasers] units to enter ocean tiles <starting from the [Ancient era]>"],
+		"cities": ["Hommme ooofff wwwar"]
+	}
+]

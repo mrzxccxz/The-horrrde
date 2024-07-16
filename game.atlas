@@ -1,0 +1,29 @@
+
+game.png
+size: 720,720
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Horrrde
+  rotate: false
+  xy: 0, 240
+  size: 240, 240
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holeee
+  rotate: false
+  xy: 240, 240
+  size: 240, 240
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Looord
+  rotate: false
+  xy: 480, 240
+  size: 240, 240
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+
+
